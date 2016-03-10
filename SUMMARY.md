@@ -8,7 +8,7 @@
        * [Die Main-Methode](die_main-methode.md)
        * [Variablen](variablen.md)
            * [Primitive Datentypen](primitive_datentypen.md)
-           * [Andre Standardtypen](andre_standardtypen.md)
+           * [Andere Standardtypen](andre_standardtypen.md)
            * [Zugriffsmodifizierer](zugriffsmodifikatoren.md)
            * [Deklaration und Initialisierung einer Variablen](deklaration_und_initialisierung_einer_variablen.md)
 
