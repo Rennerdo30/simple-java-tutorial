@@ -18,3 +18,12 @@ Verschachtelung von Klassen
 Vererbung / Implementierung
 Boolsche ausdrücke
 Bit operatoren
+
+```public class Test {
+
+public static void main(String[] args)
+{
+}
+
+}
+```
