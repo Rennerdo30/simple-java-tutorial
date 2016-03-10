@@ -20,7 +20,7 @@ public class Buch
 
 Diese Art von Klasse würde man *"Bean"* nennen. Der Name kommt wohl von dem Ursprung der Namensgebung Javas. Java ist nach einer Insel benannt auf der Kaffee angebaut wird. Daher auch die Kaffeetasse im Logo. Eine "*Bean*", zu Deutsch Bohne, ist ja die Grundlage des Kaffees, somit ist diese wohl auch die Grundlage Javas. Eine "*Bean*" ist eine Klasse, welche nur für den Datenaustausch bzw. der Speicherung von Daten angelegt wurde. 
 <br>
-Wie Sie bestimmt schon bemerkt haben sind in dem Beispiel alle Variablen auf *"private"* gesetzt. Dies ist der Fall, da man in Java auf sogenannte *"getter-"* und *"setter-Methoden"* setzt. Durch den Einsatzt dieser, ist es möglich die Daten vor dem eigendlichen abspeichern in der Variablen zu überprüfen. In den meisten IDEs ist es zwar möglich diese generieren zu lassen. Ich werde Ihnen dennoch ein Beispiel dazu zeigen:
+Wie Sie bestimmt schon bemerkt haben sind in dem Beispiel alle Variablen auf *"private"* gesetzt. Dies ist der Fall, da man in Java auf sogenannte *"getter-"* und *"setter-Methoden"* setzt. Durch den Einsatz dieser, ist es möglich die Daten vor dem eigentlichen abspeichern in der Variablen zu überprüfen. In den meisten IDEs ist es zwar möglich diese generieren zu lassen, Ich werde Ihnen dennoch ein Beispiel dazu zeigen:
 
 ```
 public class Buch
