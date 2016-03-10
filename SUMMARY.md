@@ -6,5 +6,5 @@
 * [Klassen](klassen.md)
    * [Methoden](methoden.md)
        * [Die Main-Methode](die_main-methode.md)
-       * Variablen
+       * [Variablen](variablen.md)
 
