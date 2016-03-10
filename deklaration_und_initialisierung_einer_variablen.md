@@ -6,7 +6,7 @@ In Java sieht eine solche Deklaration wie folgt aus:
 ```<Zugriffsmodifizierer> <Typ> <Name>;```
 
 Ein Beispiel:
-Wir wollen eine Ganze-Zahl in einer Variablen abspeichern. Diese Zahl ist das Alter einer Person.
+Wir wollen eine ganze-Zahl in einer Variablen abspeichern. Diese Zahl ist das Alter einer Person.
 
 ```
 //<Typ> = int
