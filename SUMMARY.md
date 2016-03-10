@@ -7,5 +7,5 @@
    * [Methoden](methoden.md)
        * [Die Main-Methode](die_main-methode.md)
        * [Variablen](variablen.md)
-           * Primitive Datentypen
+           * [Primitive Datentypen](primitive_datentypen.md)
 
