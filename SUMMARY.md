@@ -9,4 +9,5 @@
        * [Variablen](variablen.md)
            * [Primitive Datentypen](primitive_datentypen.md)
            * [Andre Standardtypen](andre_standardtypen.md)
+           * Zugriffsmodifikatoren
 
