@@ -1,2 +1,2 @@
-# Andre Standardtypen
+# Andere Standardtypen
 
