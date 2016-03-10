@@ -30,27 +30,68 @@ public class Buch
   private String verlag;
   private int seitenZahl;
   
-  //Dies ist eine setter-Methode für die Variable "titel".
+  //Setter-Methode für die Variable "titel"
   public void setTitel(String titel)
   {
     this.titel = titel;
   }
   
-   public void setAutor(String autor)
+  //Setter-Methode für die Variable "autor"
+  public void setAutor(String autor)
   {
     this.autor = autor;
   }
-   public void setIsbn(String isbn)
+  
+  //Setter-Methode für die Variable "isbn"
+  public void setIsbn(String isbn)
   {
     this.isbn = isbn;
   }
-    public void setVerlag(String verlag)
+  
+  //Setter-Methode für die Variable "verlag"
+  public void setVerlag(String verlag)
   {
     this.verlag = verlag;
+  }
+  
+  //Setter-Methode für die Variable "seitenZahl"
+  public void setSeitenZahl(int seitenZahl)
+  {
+    this.seitenZahl = seitenZahl;
+  }
+  
+  //Getter-Methode für die Variable "titel"
+  public String getTitel()
+  {
+    return this.titel;
+  }
+  
+  //Getter-Methode für die Variable "autor"
+  public String getAutor()
+  {
+    return this.autor;
+  }
+  
+  //Getter-Methode für die Variable "isbn"
+  public String getIsbn()
+  {
+    return this.isbn;
+  }
+  
+  //Getter-Methode für die Variable "verlag"
+  public String getVerlag()
+  {
+    return this.verlag;
+  }
+  
+  //Getter-Methode für die Variable "seitenZahl"
+  public int getSeitenZahl()
+  {
+    return this.seitenZahl;
   }
 }
 
 ```
 
-Ein Buch kann man lesen, es vieleicht als 
+Ein Buch kann man lesen.
 
