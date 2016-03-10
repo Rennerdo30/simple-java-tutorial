@@ -8,5 +8,5 @@
        * [Die Main-Methode](die_main-methode.md)
        * [Variablen](variablen.md)
            * [Primitive Datentypen](primitive_datentypen.md)
-           * Andre Standardtypen
+           * [Andre Standardtypen](andre_standardtypen.md)
 
