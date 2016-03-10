@@ -13,5 +13,5 @@ In Java gibt es folgende Zugriffsmodifikatoren:
 * transistent
 * ohne
 * strictfp
-
+* 
 In diesem Tutorial werden Ihnen jedoch nur die Farbig markierten näher gebracht.
