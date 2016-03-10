@@ -17,4 +17,4 @@ public class MainBeispiel
   
 }
 ```
-Der Grund-Layout der Main-Methode ist immer gleich und kann nicht abgeändert werden! Nur der Name der Variablen "args" kann beliebig gewählt werden.
+Das Grund-Layout der Main-Methode ist immer gleich und kann nicht abgeändert werden! Nur der Name der Variablen "args" kann beliebig gewählt werden.
