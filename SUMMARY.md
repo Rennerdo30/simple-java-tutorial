@@ -1,6 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-   * Inhalsangabe
+   * [Inhalsangabe](inhalsangabe.md)
 * [First Chapter](chapter1.md)
 
