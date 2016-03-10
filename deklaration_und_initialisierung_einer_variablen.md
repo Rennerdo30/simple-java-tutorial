@@ -1,5 +1,6 @@
 # Deklaration und Initialisierung einer Variablen
 
+##Deklaration
 In Java sieht eine solche Deklaration wie folgt aus:
 
 ```<Zugriffsmodifizierer> <Typ> <Name>;```
@@ -24,4 +25,27 @@ Ein Beispiel mit Zugriffsmodifizierer wäre:
 public int personAlter;
 ```
 
+##Initialisierung
 
+In Java werden Variablen initialisiert, indem ihnen ein Wert zugewiesen wird. Der zugewiesene Wert muss jedoch mit dem Typ der Variablen übereinstimmen/kompatibel sein. Allgemein lässt sich die Initialisierung in zwei Kategorieen einteilen:
+
+* **Initialisierung Primitiver Datentypen:**
+<br>
+Primitive Datentypen werden einfach durch Zuweisung eines dem Typs der Variablen entsprechenden Wertes initialisiert. Dies könnte dies wie folgt aussehen:
+
+```
+    int kundenNummer = 123456789;
+    char kategorie = 'c';
+    float preis = 17.99F;
+```
+ 
+ Es gibt jedoch eine **Ausnahme**!
+ Der Datentyp *"String"* ist zwar kein Primitiver Datentyp, kann aber als ein solcher initialisiert werden!
+ 
+```
+    String vorname = "Peter";
+```
+
+ 
+
+* **Initialisierung von Objekten:**
