@@ -27,7 +27,7 @@ public int personAlter;
 
 ##Initialisierung
 
-In Java werden Variablen initialisiert, indem ihnen ein Wert zugewiesen wird. Der zugewiesene Wert muss jedoch mit dem Typ der Variablen übereinstimmen/kompatibel sein. Allgemein lässt sich die Initialisierung in zwei Kategorieen einteilen:
+In Java werden Variablen initialisiert, indem ihnen ein Wert zugewiesen wird. Der zugewiesene Wert muss jedoch mit dem Typ der Variablen übereinstimmen/kompatibel sein. Allgemein lässt sich die Initialisierung in zwei Kategorien einteilen:
 
 * **Initialisierung Primitiver Datentypen:**
 <br>
