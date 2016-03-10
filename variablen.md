@@ -24,5 +24,3 @@ Ein Beispiel mit Zugriffsmodifizierer wäre:
 //<Name> = personAlter
 public int personAlter;
 ```
-
-Mehr zu Zugriffsmodifizierern gibt es hier.
