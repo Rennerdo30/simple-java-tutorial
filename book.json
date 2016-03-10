@@ -1,7 +1,8 @@
 {
     "plugins": [
         "atoc",
-        "fontsettings"
+        "fontsettings",
+        "highlight"
     ],
     "pluginsConfig": {}
 }
