@@ -9,6 +9,6 @@
        * [Variablen](variablen.md)
            * [Primitive Datentypen](primitive_datentypen.md)
            * [Andre Standardtypen](andre_standardtypen.md)
-           * Zugriffsmodifikatoren
+           * [Zugriffsmodifikatoren](zugriffsmodifikatoren.md)
            * Deklaration und Initialisierung einer Variablen
 
