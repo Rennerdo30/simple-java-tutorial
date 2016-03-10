@@ -1,3 +1,3 @@
 # Simple Java Tutorial
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Dieses Tutorial soll Ihnen die Grundlagen und die Eigenheiten der Programmiersprache Java näher bingen. Dabei werden Ihnen allgemeine Informationen und Hintergründe, sowie Codebeispiele 
