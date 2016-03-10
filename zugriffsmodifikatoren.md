@@ -10,7 +10,7 @@ In Java gibt es folgende Zugriffsmodifikatoren:
 * synchronized
 * volatile
 * transistent
-* <keiner>
+* ohne
 * strictfp
 
 In diesem Tutorial werden Ihnen jedoch nur die Farbig markierten näher gebracht.
