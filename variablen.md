@@ -1,4 +1,3 @@
 # Variablen
 
-Variablen sind eines der Wichtigsten Elemente der Programmierung. Ohne sie wäre kaum etwas möglich.
-Die Deklaration einer Variablen in Java zählt zu den einfachsten Dingen überhaupt. 
+Variablen sind eines der Wichtigsten Elemente der Programmierung. Ohne sie wäre kaum etwas möglich. Eine Variable dient als Speicher von Daten. Man könnte sie sich wie ein Gefäß vorstellen, in das man Daten hineinsteckt, um diese Später wieder herauszuholen. So kann man in Variablen alles ablegen, was man möchte. Zahlen, Texte, einzelne Buchstaben, uvm. dazu später. 

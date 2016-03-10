@@ -11,5 +11,5 @@
            * [Andere Standardtypen](andre_standardtypen.md)
            * [Zugriffsmodifizierer](zugriffsmodifikatoren.md)
            * [Deklaration und Initialisierung einer Variablen](deklaration_und_initialisierung_einer_variablen.md)
-   * Objekte
+   * [Objekte](objekte.md)
 
